@@ -481,4 +481,5 @@ const manufacturers = <String, String>{
   '9BW': 'Volkswagen',
   '9FB': 'Renault',
   'WB1': 'BMW Motorrad of North America',
+  '3KP': 'HYUNDAI, KIA'
 };
